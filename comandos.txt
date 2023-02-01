@@ -15,3 +15,6 @@ git pull -> busca os arquivos alterados do github por um ou mais colaboradores q
 git clone -> clona um repositorio direto do github utilizando a url do mesmo.
 
 git log -> mostra os logs feitos no trabalho.
+
+git checkout (item exp comandos.txt) -> faz um roll back dos arquivos para a sua ultima atualização enviada para o github 
+utilizado caso faça o salvamento de algum arquivo errado por exemplo antes de ser enviado pelo push.
