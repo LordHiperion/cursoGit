@@ -13,3 +13,5 @@ git push -> envia as alterações feitas no trabalho para o repositorio no caso 
 git pull -> busca os arquivos alterados do github por um ou mais colaboradores que estejam no mesmo projeto.
 
 git clone -> clona um repositorio direto do github utilizando a url do mesmo.
+
+git log -> mostra os logs feitos no trabalho.
