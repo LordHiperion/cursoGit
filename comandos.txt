@@ -18,3 +18,6 @@ git log -> mostra os logs feitos no trabalho.
 
 git checkout (item exp comandos.txt) -> faz um roll back dos arquivos para a sua ultima atualização enviada para o github 
 utilizado caso faça o salvamento de algum arquivo errado por exemplo antes de ser enviado pelo push.
+
+git reset ( --hard origin/"pasta de destino") -> busca o ultimo commit feito na pasta selecionada apagando tudo que havia sido feito até o momento do git reset.
+
