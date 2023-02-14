@@ -1,6 +1,7 @@
 
 
 ----- comandos ----
+git init -> comando usado parra iniciar um repositório.
 
 git status -> verifica o stauts das movimentaçoes e pendencias.
 
