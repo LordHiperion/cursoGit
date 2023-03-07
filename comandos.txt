@@ -22,6 +22,8 @@ utilizado caso faça o salvamento de algum arquivo errado por exemplo antes de s
 
 git reset ( --hard origin/"pasta de destino") -> busca o ultimo commit feito na pasta selecionada apagando tudo que havia sido feito até o momento do git reset.
 
-git branch -> visualisa as branchs do projeto atual.
+git branch -> visualisa as branchs do projeto atual, 
+tambem pode ser usado para criar uma nova branch colocando o nome da mesma ao final do comando ex: git branch pageHome.
 
-git brancha (nome da branch) -> cria uma nova branch no projeto.
+git checkout + nome da branch -> comando usado para selecionar novas branch's dentro do projeto.
+
