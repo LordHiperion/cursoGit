@@ -15,7 +15,7 @@ git pull -> busca os arquivos alterados do github por um ou mais colaboradores q
 
 git clone -> clona um repositorio direto do github utilizando a url do mesmo.
 
-git log -> mostra os logs feitos no trabalho.
+git log -> mostra os logs feitos no trabalho. 
 
 git checkout (item exp comandos.txt) -> faz um roll back dos arquivos para a sua ultima atualização enviada para o github 
 utilizado caso faça o salvamento de algum arquivo errado por exemplo antes de ser enviado pelo push.
@@ -29,3 +29,8 @@ git checkout + nome da branch -> comando usado para selecionar novas branch's de
 
 git checkout -b "nome" -> comando usado para criar nova branch e já seleciona-la.
 
+git branch -d + nome -> comando usar para deletar branchs mas ela deve estar selecionada.
+
+git merge + nome -> comando usado para unir a branch atual a branch main do projeto.
+obs1: a branch main deve estar selecionada.
+obs2: se quiser buscar e atualizar as informaçoes da main para a branch que esta trabalhando só dar o comando com a main como nome.
