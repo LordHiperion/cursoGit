@@ -22,3 +22,6 @@ utilizado caso faça o salvamento de algum arquivo errado por exemplo antes de s
 
 git reset ( --hard origin/"pasta de destino") -> busca o ultimo commit feito na pasta selecionada apagando tudo que havia sido feito até o momento do git reset.
 
+git branch -> visualisa as branchs do projeto atual.
+
+git brancha (nome da branch) -> cria uma nova branch no projeto.
