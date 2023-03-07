@@ -27,3 +27,5 @@ tambem pode ser usado para criar uma nova branch colocando o nome da mesma ao fi
 
 git checkout + nome da branch -> comando usado para selecionar novas branch's dentro do projeto.
 
+git checkout -b "nome" -> comando usado para criar nova branch e já seleciona-la.
+
