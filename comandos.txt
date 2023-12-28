@@ -3,6 +3,10 @@
 ----- comandos ----
 git init -> comando usado parra iniciar um repositório.
 
+git branch -M main -> criar a branch main do projeto antes de vincular ele ao site do github.
+
+git remote add origen ( url do repositorio no github) -> associa o projeto aao repositorio no git hub.
+
 git status -> verifica o stauts das movimentaçoes e pendencias.
 
 git add . -> adiciona ou atualiza as mudanças feitas para poderem ser enviadas para o github.
