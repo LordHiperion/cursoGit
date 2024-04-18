@@ -160,14 +160,3 @@ Escreva um programa que peça ao usuário para digitar um número e, em seguida,
 
 //Tentar algo como um array de meses, e um de signos. Ou talvez um objeto.
 // usar swith case para o mes
-
-function diaMes(numero,mes) {
-
-  if () {
-    
-  }
-
- 
-
-
-}
