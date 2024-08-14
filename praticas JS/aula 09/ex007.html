@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciando com o DOM</title>
+    <style>
+        body {
+            background: #229cde;
+            color: white;
+            font: normal 18pt Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1> iniciando estudos com o DOM</h1>
+    <p>Aqui vai o resultado</p>
+    <p>Aprendendo a usar <strong>DOM em JavaScript</strong></p>
+    <div> Clique em mim</div>
+    
+TODO: assistir a aula 9 de novo depois
+    <script>
+        //getElementsByTagName() consegue selecionar mais de um objeto ultilizando [] no final.
+        // document.getElementById seleciona objetos pelo id cadastrado
+        // document.getElementsByClassName seleciona os objetos pelas classes e pode ser mais de 1
+
+        var p1 = window.document.getElementsByTagName('p')[1]
+        window.document.write(p1.innerText);
+    </script>
+</body>
+</html>
